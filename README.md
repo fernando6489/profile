@@ -19,10 +19,10 @@
 Profesional con experiencia en soporte técnico, gestión documental y supervisión de proyectos de digitalización. He trabajado en entornos corporativos y bancarios aplicando normas ISO y buenas prácticas de ciberseguridad. Me interesa la automatización de procesos, la seguridad de la información y el desarrollo de soluciones prácticas.
 
 ### Contacto
-• 	✉️ Email: wladimir_nando@hotmail.com (hotmail.com in Bing)
-• 	📞 Teléfono: +593 98770 1659
-• 	🔗 LinkedIn: linkedin.com/in/fernando6489
-• 	🐙 GitHub: github.com/fernando6489
+- ✉️ Email: wladimir_nando@hotmail.com
+- 📞 Teléfono: +593 98770 1659
+- 🔗 LinkedIn: https://www.linkedin.com/in/fernando6489/
+- 🐙 GitHub: https://github.com/fernando6489
 
 ### Habilidades técnicas
 - 💻 Lenguajes y desarrollo: Java (POO); React; HTML; CSS
