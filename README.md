@@ -2,36 +2,36 @@
 
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
-<h2 align="left">Hola, soy <a href="https://www.linkedin.com/in/fernando6489" target="_blank" rel="noopener noreferrer">Fernando Vega</a> 
+<h2 align="left">Hola, soy <a href="https://www.linkedin.com/in/fernando6489" target="_blank" rel="noopener noreferrer">Wladimir Vega</a> 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30"/>
 <a href="https://github.com/fernando6489"><img align="right" src="#" width="150"></a>
 </h2>
  
-🎓 Estudiante de Desarrollo de Software· 
-🛠️ Soporte técnico· 
-📁 Gestión documental y digitalización· 
-🧰 Plataformas: DCNet; OnBase; Moodle· 
-🧾 SAP (básico)· 
-🛡️ Monitoreo con Wazuh · ISO 27001· 
+🎓 Estudiante de Desarrollo de Software·
+🛠️ Soporte técnico·
+📁 Gestión documental y digitalización·
+🧰 Plataformas: DCNet; OnBase; Moodle·
+🧾 SAP (básico)·
+🛡️ Monitoreo con Wazuh · ISO 27001·
 ⚙️ Enfoque en eficiencia operativa, seguridad de la información y mejora continua.
 
 ### Sobre mí
 Profesional con experiencia en soporte técnico, gestión documental y supervisión de proyectos de digitalización. He trabajado en entornos corporativos y bancarios aplicando normas ISO y buenas prácticas de ciberseguridad. Me interesa la automatización de procesos, la seguridad de la información y el desarrollo de soluciones prácticas.
 
 ### Contacto
-- **Email:** wladimir_nando@hotmail.com  
-- **Teléfono:** +593 98770 1659  
-- **LinkedIn:** https://www.linkedin.com/in/fernando6489/  
-- **GitHub:** https://github.com/fernando6489
+• 	✉️ Email: wladimir_nando@hotmail.com (hotmail.com in Bing)
+• 	📞 Teléfono: +593 98770 1659
+• 	🔗 LinkedIn: linkedin.com/in/fernando6489
+• 	🐙 GitHub: github.com/fernando6489
 
 ### Habilidades técnicas
-- **Lenguajes y desarrollo:** Java (POO); React; HTML; CSS  
-- **Bases de datos:** MySQL (modelado y consultas SQL)  
-- **Herramientas de desarrollo:** Visual Studio Code; Git / GitHub  
-- **Herramientas empresariales:** Microsoft Office; SharePoint; Power BI; Canva; SAP (básico)  
-- **Gestores documentales:** OnBase; OpenKM; DCNet  
-- **Seguridad y monitoreo:** Wazuh; aplicación de ISO 27001  
-- **Plataformas educativas:** Moodle
+- 💻 Lenguajes y desarrollo: Java (POO); React; HTML; CSS
+- 🗄️ Bases de datos: MySQL (modelado y consultas SQL)
+- 🛠️ Herramientas de desarrollo: Visual Studio Code; Git / GitHub
+- 🧾 Herramientas empresariales: Microsoft Office; SharePoint; Power BI; Canva; SAP (básico)
+- 📂 Gestores documentales: OnBase; OpenKM; DCNet
+- 🛡️ Seguridad y monitoreo: Wazuh; aplicación de ISO 27001
+- 🎓 Plataformas educativas: Moodle
 
 ### Idiomas
 - **Español:** Nativo  
