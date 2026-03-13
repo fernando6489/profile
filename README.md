@@ -7,13 +7,13 @@
 <a href="https://github.com/fernando6489"><img align="right" src="#" width="150"></a>
 </h2>
  
-• 	🎓 Estudiante de Desarrollo de Software·
-• 	🛠️ Soporte técnico·
-• 	📁 Gestión documental y digitalización·
-• 	🧰 Plataformas: DCNet; OnBase; Moodle·
-• 	🧾 SAP (básico)·
-• 	🛡️ Monitoreo con Wazuh · ISO 27001·
-• 	⚙️ Enfoque en eficiencia operativa, seguridad de la información y mejora continua.
+- 🎓 Estudiante de Desarrollo de Software
+- 🛠️ Soporte técnico
+- 📁 Gestión documental y digitalización
+- 🧰 Plataformas: DCNet; OnBase; Moodle
+- 🧾 SAP (básico)
+- 🛡️ Monitoreo con Wazuh · ISO 27001
+- ⚙️ Enfoque en eficiencia operativa, seguridad de la información y mejora continua
 
 ### Sobre mí
 Profesional con experiencia en soporte técnico, gestión documental y supervisión de proyectos de digitalización. He trabajado en entornos corporativos y bancarios aplicando normas ISO y buenas prácticas de ciberseguridad. Me interesa la automatización de procesos, la seguridad de la información y el desarrollo de soluciones prácticas.
