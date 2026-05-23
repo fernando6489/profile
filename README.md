@@ -11,10 +11,15 @@
 ## 👋 Hola, soy Wladimir
 🎓 Estudiante de Desarrollo de Software
 🛠️ Soporte técnico
+
 📁 Gestión documental y digitalización
+
 🧰 Plataformas: DCNet; OnBase; Moodle
+
 🧾 SAP (básico)
+
 🛡️ Monitoreo con Wazuh · ISO 27001
+
 ⚙️ Enfoque en eficiencia operativa, seguridad de la información y mejora continua 
 
 ---
