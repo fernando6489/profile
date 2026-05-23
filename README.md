@@ -72,7 +72,8 @@ Con conocimientos básicos en **SAP** para gestión documental y procesos.
 
 ## 🎓 Formación Académica
 - **Instituto Tecnológico Superior Quito Metropolitano**  
-  Carrera: Desarrollo de Software – Segundo semestre (en curso)  
+  Carrera: Desarrollo de Software – Segundo semestre (en curso)
+  
 - **Instituto Tecnológico Superior Policía Nacional**  
   Ciencias, especialidad Físico Matemático (2007 – 2012)  
 
@@ -110,15 +111,11 @@ Con conocimientos básicos en **SAP** para gestión documental y procesos.
 ---
 
 ## 🤝 Contacto
-✉️ [wladimir_nando@hotmail.com](mailto:wladimir_nando@hotmail.com)  
-📞 [+593 98770 1659](tel:+593987701659)  
-🔗 [LinkedIn](https://www.linkedin.com/in/fernando6489/)  
-🐙 [GitHub](https://github.com/fernando6489)  
+✉️ Email: wladimir_nando@hotmail.com
+📞 Teléfono: +593 98770 1659
+🔗 LinkedIn: https://www.linkedin.com/in/fernando6489/
+🐙 GitHub: https://github.com/fernando6489
 
 ---
-
-## 📊 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernando6489&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernando6489&layout=compact&theme=tokyonight)
 
 Credits: Adaptado por @fernando6489
