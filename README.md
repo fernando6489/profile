@@ -9,10 +9,13 @@
 ---
 
 ## 👋 Hola, soy Wladimir
-🎓 Estudiante de Desarrollo de Software  
-🛠️ Soporte técnico · Gestión documental · Administración de plataformas TI  
-🛡️ Seguridad de la información · ISO 27001 · Wazuh  
-⚙️ Orientado a eficiencia operativa, mejora continua y automatización de procesos  
+🎓 Estudiante de Desarrollo de Software
+🛠️ Soporte técnico
+📁 Gestión documental y digitalización
+🧰 Plataformas: DCNet; OnBase; Moodle
+🧾 SAP (básico)
+🛡️ Monitoreo con Wazuh · ISO 27001
+⚙️ Enfoque en eficiencia operativa, seguridad de la información y mejora continua 
 
 ---
 
