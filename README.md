@@ -112,8 +112,11 @@ Con conocimientos básicos en **SAP** para gestión documental y procesos.
 
 ## 🤝 Contacto
 ✉️ Email: wladimir_nando@hotmail.com
+
 📞 Teléfono: +593 98770 1659
+
 🔗 LinkedIn: https://www.linkedin.com/in/fernando6489/
+
 🐙 GitHub: https://github.com/fernando6489
 
 ---
