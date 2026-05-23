@@ -1,12 +1,10 @@
-# fernando6489.github.io
-
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
-
 # 👨‍💻 Perfil Profesional – Wladimir Vega Herrera
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/fernando6489/)
 [![GitHub](https://img.shields.io/badge/GitHub-fernando6489-black?logo=github)](https://github.com/fernando6489)
 ![Última edición](https://img.shields.io/badge/Última%20edición-2026--05--23-lightgrey)
+
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
 ---
 
