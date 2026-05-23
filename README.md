@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/fernando6489/)
 [![GitHub](https://img.shields.io/badge/GitHub-fernando6489-black?logo=github)](https://github.com/fernando6489)
-![Última edición](https://img.shields.io/badge/Última%20edición-2026--03--13-lightgrey)
+![Última edición](https://img.shields.io/badge/Última%20edición-2026--05--23-lightgrey)
 
 ---
 
@@ -114,8 +114,5 @@ Con conocimientos básicos en **SAP** para gestión documental y procesos.
 ## 📊 Estadísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernando6489&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernando6489&layout=compact&theme=tokyonight)
-
-
-**Última edición:** 2026-05-23
 
 Credits: Adaptado por @fernando6489
