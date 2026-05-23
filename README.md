@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 Hola, soy Wladimir Vega
+## 👋 Hola, soy Wladimir
 🎓 Estudiante de Desarrollo de Software  
 🛠️ Soporte técnico · Gestión documental · Administración de plataformas TI  
 🛡️ Seguridad de la información · ISO 27001 · Wazuh  
