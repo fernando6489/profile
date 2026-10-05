@@ -39,7 +39,7 @@ Con conocimientos básicos en **SAP** para gestión documental y procesos.
 📅 Ago 2025 – Ene 2026  
 - Coordinación operativa del proceso de digitalización de papeletas bancarias.  
 - Supervisión de escaneo, indexación y control de calidad.  
-- Administración de la plataforma **DCNet**.  
+- Administración de la plataforma **DCNet, OnBase**.  
 - Producción de informes y gestión documental.  
 - Identificación de oportunidades de mejora en procesos.  
 
