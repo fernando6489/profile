@@ -10,6 +10,7 @@
 
 ## 👋 Hola, soy Wladimir
 🎓 Estudiante de Desarrollo de Software
+
 🛠️ Soporte técnico
 
 📁 Gestión documental y digitalización
