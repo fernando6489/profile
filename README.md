@@ -14,7 +14,7 @@
 
 📁 Gestión documental y digitalización
 
-🧰 Plataformas: DCNet; OnBase; Moodle
+🧰 Plataformas: DCNet; OnBase; Moodle; DHS; SharePoint
 
 🧾 SAP (básico)
 
@@ -72,7 +72,7 @@ Con conocimientos básicos en **SAP** para gestión documental y procesos.
 
 ## 🎓 Formación Académica
 - **Instituto Tecnológico Superior Quito Metropolitano**  
-  Carrera: Desarrollo de Software – Segundo semestre (en curso)
+  Carrera: Desarrollo de Software – Cuarto semestre (en curso)
   
 - **Instituto Tecnológico Superior Policía Nacional**  
   Ciencias, especialidad Físico Matemático (2007 – 2012)  
@@ -94,13 +94,13 @@ Con conocimientos básicos en **SAP** para gestión documental y procesos.
 ---
 
 ## 🛠️ Habilidades Técnicas
-- **Lenguajes y desarrollo:** Java (POO), React, HTML, CSS  
-- **Bases de datos:** MySQL (modelado y consultas SQL)  
-- **Herramientas de desarrollo:** VS Code, Git/GitHub  
-- **Herramientas empresariales:** Microsoft Office, SharePoint, Power BI, Canva, SAP  
-- **Gestores documentales:** OnBase, OpenKM, DCNet  
-- **Seguridad y monitoreo:** Wazuh, ISO 27001  
-- **Plataformas educativas:** Moodle  
+- **Lenguajes y desarrollo:** Java (POO), Spring Boot, React, Angular, HTML, CSS
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB
+- **Herramientas de desarrollo:** VS Code, IntelliJ IDEA, NetBeans, Android Studio, DBeaver, Git/GitHub, Docker
+- **Herramientas empresariales:** Microsoft Office, SharePoint, Power BI, Canva, SAP
+- **Gestores documentales:** OnBase, OpenKM, DCNet, DHS
+- **Seguridad y monitoreo:** Wazuh, ISO 27001
+- **Plataformas educativas:** Moodle
 
 ---
 
